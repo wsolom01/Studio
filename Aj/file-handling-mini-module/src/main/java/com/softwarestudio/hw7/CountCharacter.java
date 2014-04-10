@@ -2,7 +2,7 @@ package com.softwarestudio.hw7;
 
 import java.io.*;
 import java.nio.file.*;
-
+//just a small change
 public class CountCharacter {
 
 	private char letter;
