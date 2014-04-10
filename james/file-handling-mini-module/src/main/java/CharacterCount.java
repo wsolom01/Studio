@@ -12,6 +12,7 @@ public class CharacterCount {
                 char character = characterCount.requestUserInput();
                 int count = characterCount.countCharacters(character, file);
                 System.out.println("There are " + count + " " + character + " in the file");
+				//New comment
         }
 
         private char requestUserInput() throws IOException {
